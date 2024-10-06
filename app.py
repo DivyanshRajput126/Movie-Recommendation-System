@@ -3,6 +3,7 @@ import pickle as pkl
 import pandas as pd
 import requests
 
+# This is a updated repositoru
 movies_list = pkl.load(open('movies.pkl','rb'))
 
 similarity = pkl.load(open('similarity.pkl','rb'))
