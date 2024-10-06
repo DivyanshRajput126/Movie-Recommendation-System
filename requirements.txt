@@ -1,7 +1,10 @@
 scikit-learn
 pandas
 numpy
-pickle
+pickles
 nltk
 streamlit
+<<<<<<< HEAD
 requests
+=======
+>>>>>>> 1323ef8c0d4582f6cfafea69f8cb2d03889702b9
