@@ -3,4 +3,3 @@ pandas
 numpy
 pickle5
 nltk
-pip install --upgrade pip
