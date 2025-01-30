@@ -17,7 +17,7 @@ This project is a Movie Recommendation System built using the Cosine Similarity 
 7. streamlit: For creating the web application.
 
 # File Structure
-|-- app.py                   # Streamlit frontend code
+|-- app.py                   # Streamlit frontend code<br>
 |-- model.pkl                 # Saved model with pickle
 |-- movies.csv                # Dataset containing movie metadata
 |-- README.md                 # Project documentation
