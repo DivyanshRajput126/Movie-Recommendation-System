@@ -16,5 +16,11 @@ This project is a Movie Recommendation System built using the Cosine Similarity 
 6. pickle: For saving and loading the trained recommendation model.
 7. streamlit: For creating the web application.
 
+# File Structure
+|-- app.py                   # Streamlit frontend code
+|-- model.pkl                 # Saved model with pickle
+|-- movies.csv                # Dataset containing movie metadata
+|-- README.md                 # Project documentation
+
 # Conclusion 🏁
 This project demonstrates an effective way to build a movie recommendation system using text-based features. With a clean and simple interface powered by Streamlit, users can easily discover new movie recommendations.
